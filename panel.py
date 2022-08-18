@@ -1,4 +1,4 @@
-#Kuzey Ceylan Tarafından Yapılmıştır Başka Hesapta Paylaşılamaz.
+#Kuzey Ceylan Tarafindan Yapilmistir Baska Hesapta Paylasılamaz.
 
 import os
 import random
